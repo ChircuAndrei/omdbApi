@@ -11,7 +11,7 @@ export const MovieDetails = ({ imdbID }) => {
 
   const handleBookmarkClick = () => {
     isBookmarked
-      ? fetch("http://127.0.0.1:3001/favorites", {
+      ? fetch("http://localhost:8080/favourites", {
           method: "DELETE",
           headers: {
             "Content-type": "application/json",
@@ -20,7 +20,7 @@ export const MovieDetails = ({ imdbID }) => {
         }).then(() => {
           setIsBookmarked(!isBookmarked);
         })
-      : fetch("http://127.0.0.1:3001/favorites", {
+      : fetch("http://localhost:8080/favourites", {
           method: "POST",
           headers: {
             "Content-type": "application/json",

@@ -27,7 +27,7 @@ export const useMovieDetails = (imdbID) => {
   useEffect(() => {
     const fetchWishlist = async () => {
       try {
-        const response = await fetch("http://127.0.0.1:3001/favorites");
+        const response = await fetch("http://localhost:8080/favourites");
         if (!response.ok) {
           throw new Error("Network response was not ok");
         }
