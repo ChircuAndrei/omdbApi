@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9afe1d9-ca9f-492e-8dc8-182a90508434" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/client/src/components/MovieDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/MovieDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Navbar/components/Watchlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Navbar/components/Watchlist.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dd1acb42df7e240ec8ab6244a7f705efe0007d1b" />
+        <entry key="$PROJECT_DIR$" value="development" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +63,7 @@
       <workItem from="1707321412223" duration="1649000" />
       <workItem from="1707324800658" duration="1487000" />
       <workItem from="1707331088553" duration="93000" />
-      <workItem from="1707332936699" duration="1136000" />
+      <workItem from="1707332936699" duration="3247000" />
     </task>
     <servers />
   </component>

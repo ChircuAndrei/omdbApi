@@ -1,4 +1,4 @@
-export const Watchlist = (favorites) => (
+export const Watchlist = () => (
     <div className="dropdown">
     <button
       className="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
